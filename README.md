@@ -1,4 +1,5 @@
 # DellDisplayManagerLite
+![DellDisplayManagerLite](delldisplay manager lite linux.png)
 Linux App with shortcut to easy select preset, entry, and power off a DELL monitor
 
 
