@@ -2,7 +2,7 @@
 
 
 Linux App with shortcut to easy select preset, entry, and power off a DELL monitor
-
+![alt text](https://raw.githubusercontent.com/ManTreff/DellDisplayManagerLite/main/delldisplaymanagerlitelinux.png)
 
 Because Dell does not give us a Linux version of Dell display manager I wrote this code.
 There is already some Windows management app in Linux so this app only manage entry and presets of my Dell monitor with shortcuts.
